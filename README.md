@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yatam Charishma</h1>
-<h3 align="center">A Passionate Backend Developer who loves building scalable and efficient systems 🚀</h3>
+<h3 align="center">👩‍💻 Tech Girl</h3>
 
 <p align="center">
   📫 <strong>Email:</strong> <a href="mailto:charishma.yatam@gmail.com">charishma.yatam@gmail.com</a> &nbsp;|&nbsp;
